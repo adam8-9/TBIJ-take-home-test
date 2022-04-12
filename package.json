@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "xlsx": "^0.18.5"
+  },
+  "name": "tbij_test",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
